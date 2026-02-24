@@ -7,8 +7,11 @@ Observa que este proyecto no tiene ninguna clase con el método `main`, no nos h
 Haz un fork de este proyecto en tu repositorio de Github y contesta a las siguientes preguntas:
 
 1. ¿Qué sentido puede tener este proyecto y para que lo podrías usar?
+    Revisar los posibles valores de entrada que podria ingresar el usuario y comprobar hay errores dentro del programa, podria usarlo para revisar rapidamente si un proyecto no tiene errores
 2. Revisa las pruebas de la suma y comenta lo que te parezca de interés
+    El metodo sumarPositivosmal y sus varibles, el metodo siempre esperara el resultado correcto pero este nunca se dara.
 3. Realiza un estudio de caja negra de la división e implementa las pruebas en junit: Se realizará en markdown.
+    
 
 
 
