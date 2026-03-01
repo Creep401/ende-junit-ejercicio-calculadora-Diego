@@ -11,7 +11,19 @@ Haz un fork de este proyecto en tu repositorio de Github y contesta a las siguie
 2. Revisa las pruebas de la suma y comenta lo que te parezca de interés
     El metodo sumarPositivosmal y sus varibles, el metodo siempre esperara el resultado correcto pero este nunca se dara.
 3. Realiza un estudio de caja negra de la división e implementa las pruebas en junit: Se realizará en markdown.
-    
+    ### Pruebas de caja negra
+    | Entradas | -> | Salida |
+    | -  | - | - |
+    | 50/10 | -> | 5 |
+    | 100/200 | -> | 0.5 |
+    | 0.1/15 | -> | 0.0066666667 |
+    | 15/0.6 | -> | 25 |
+    | 0/5 | -> | Error |
+    | 5/0 | -> | Error |
+    | 0/0 | -> | Error |
+    | a/10 | -> | Error |
+    | 10/b | -> | Error |
+    | a/b  | -> | Error |
 
 
 
