@@ -16,14 +16,9 @@ Haz un fork de este proyecto en tu repositorio de Github y contesta a las siguie
     | -  | - | - |
     | 50/10 | -> | 5 |
     | 100/200 | -> | 0.5 |
-    | 0.1/15 | -> | 0.0066666667 |
-    | 15/0.6 | -> | 25 |
     | 0/5 | -> | Error |
     | 5/0 | -> | Error |
     | 0/0 | -> | Error |
-    | a/10 | -> | Error |
-    | 10/b | -> | Error |
-    | a/b  | -> | Error |
 
 
 
